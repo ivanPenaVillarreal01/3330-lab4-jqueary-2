@@ -22,7 +22,11 @@ const games = [
 
   {
     "title": "Super Mario Odyssey"
-  }
+  },
+
+  {
+  "title": "Fortnite"
+  },
 ];
 
   var gameList, newItemForm, newItemButton;
